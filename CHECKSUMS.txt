@@ -1,0 +1,2 @@
+5f1eceaf63d77732433c70d05b0570b393dccca66741bdcb93d57c8bd0b78648  /mnt/data/gbzap_cleaner_v2/GBZapCleaner_v2_x64.exe
+bb7687d3a619dc3ebbf30a06957fddd0be6a15a53cd4a58bea2340f9f6bdd863  /mnt/data/gbzap_cleaner_v2/GBZapCleaner_v2_x86.exe
